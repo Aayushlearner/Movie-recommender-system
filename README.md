@@ -28,7 +28,7 @@ movie-recommender-system/
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-recommender-system.git
+   git clone https://github.com/Aayushlearner/movie-recommender-system.git
    cd movie-recommender-system
    ```
 
